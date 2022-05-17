@@ -9,26 +9,28 @@
     > 
     > VOIP Systems
     > 
+    > Network Inferstructure
+    > 
     > Reverse Engineering
     > 
     > Modular Software Design
 
 - 🌱 I’m currently learning ...
-    > Python
+    > Python ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
     > 
-    > R
+    > R ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
     > 
-    > React-Native
+    > React-Native ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
     > 
-    > NodeJS
+    > NodeJS ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
     > 
-    > Java
+    > Java ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
     > 
-    > SQL
+    > SQL ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
     > 
-    > Rust
+    > Rust ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
     > 
-    > Swift
+    > Swift ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
     
 - 💞️ I’m looking to collaborate on ...
     > Discord Bots
