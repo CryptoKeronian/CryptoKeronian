@@ -1,10 +1,45 @@
 - 👋 Hi, I’m @CryptoKeronian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-CryptoKeronian/CryptoKeronian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ...
+    > Secure Text Communication
+    > 
+    > Payment Systems
+    > 
+    > Machine Learning
+    > 
+    > VOIP Systems
+    > 
+    > Reverse Engineering
+    > 
+    > Modular Software Design
+
+- 🌱 I’m currently learning ...
+    > Python
+    > 
+    > R
+    > 
+    > React-Native
+    > 
+    > NodeJS
+    > 
+    > Java
+    > 
+    > SQL
+    > 
+    > Rust
+    > 
+    > Swift
+    
+- 💞️ I’m looking to collaborate on ...
+    > Discord Bots
+    > 
+    > VOIP Bridges
+    > 
+    > Predictive Software [Elections, Sports, Ect]
+
+- 📫 How to reach me ...
+    > CryptoKeronian on Twitter
+    > 
+    > CryptoKeronian on SecondLife
+    > 
+    > cryptokeronian@gmx.com
