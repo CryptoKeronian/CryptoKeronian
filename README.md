@@ -15,7 +15,9 @@
     > 
     > Modular Software Design
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...    > 
+    > LUA ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+    >
     > Python ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
     > 
     > R ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
@@ -31,6 +33,8 @@
     > Rust ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
     > 
     > Swift ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+    > 
+    > C# ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     
 - 💞️ I’m looking to collaborate on ...
     > Discord Bots
