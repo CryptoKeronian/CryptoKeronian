@@ -16,23 +16,23 @@
     > Modular Software Design
 
 - 🌱 I’m currently learning ...    > 
-    > LUA ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+    > LUA ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     >
-    > Python ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+    > Python ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     > 
-    > R ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+    > R ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     > 
-    > React-Native ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+    > React-Native ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     > 
-    > NodeJS ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+    > NodeJS ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     > 
     > Java ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
     > 
-    > SQL ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+    > SQL ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     > 
-    > Rust ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+    > Rust ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     > 
-    > Swift ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+    > Swift ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     > 
     > C# ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     
